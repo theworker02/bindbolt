@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/bindbolt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bind numeric bolt values, ranges, and human-readable units.",
+  "bin": {
+    "bindbolt": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/bindbolt.git"
+  },
+  "homepage": "https://theworker02.github.io/bindbolt/",
+  "keywords": [
+    "bind",
+    "bolt",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
